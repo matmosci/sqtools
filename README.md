@@ -1,6 +1,15 @@
 # SQTools
 **CorelDRAW addon for print industry**  
 
+## License
+
+SQTools is free to use, including for commercial and professional work.
+
+Reselling SQTools or modified versions of SQTools is not permitted
+without the author's written permission.
+
+See [LICENSE.md](LICENSE.md) for details.
+
 ## Overview
 
 #### What is SQTools?
